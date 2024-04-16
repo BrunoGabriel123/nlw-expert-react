@@ -8,6 +8,7 @@ Essa aplicação trata-se de um bloco de notas para maior gestão de suas tarefa
 Após clonar o repositório, acesse a pasta do projeto e execute os comandos abaixo:
  
 npm install
+
 npm run dev 
 
 Acesse http://localhost:5173 para visualizar a aplicação.
